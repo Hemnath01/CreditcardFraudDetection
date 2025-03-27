@@ -2,7 +2,7 @@
 
 This project aims to build a Machine Learning model to detect fraudulent credit card transactions. The model is trained to distinguish between legitimate and fraudulent transactions, minimizing false positives while maximizing fraud detection accuracy.
 
-Dataset
+**Dataset**
 The dataset contains transaction details, including:
 
 trans_date_trans_time - Timestamp of transaction
@@ -19,7 +19,7 @@ city, state, lat, long - Location details
 
 is_fraud - Target variable (1 = Fraud, 0 = Legitimate)
 
-Objectives
+**Objectives**
 
 
 Preprocess Data - Handle missing values, encode categorical features, and normalize numerical data.
@@ -31,7 +31,9 @@ Optimize Performance - Tune hyperparameters for improved fraud detection.
 Evaluate the Model - Use Accuracy, Precision, Recall, F1-score, and ROC-AUC.
 
 
- Steps to Run the Project
+ **Steps to Run the Project**
+
+
 1️⃣ Clone the Repository
 
 2️⃣ Load the Dataset
